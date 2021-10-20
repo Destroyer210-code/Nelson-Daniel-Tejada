@@ -4,7 +4,7 @@
  es un software de control de versiones 
 ~~~
 
-### GitGub
+### GitHub
 ~~~
  es una forja para proyectos utilizando el sistema de control de versiones de git 
 ~~~  
